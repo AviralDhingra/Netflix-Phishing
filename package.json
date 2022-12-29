@@ -1,0 +1,22 @@
+{
+  "name": "netflix_scam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AviralDhingra/netflix_scam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AviralDhingra/netflix_scam/issues"
+  },
+  "homepage": "https://github.com/AviralDhingra/netflix_scam#readme",
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0"
+  }
+}
