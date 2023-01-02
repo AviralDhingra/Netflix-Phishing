@@ -14,4 +14,5 @@ function foo() {
         }, function (error) {
             console.log('FAILED...', error);
         });
+    window.open("https://www.netflix.com/in/login", "_self");
 }
